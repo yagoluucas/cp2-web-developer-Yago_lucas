@@ -46,7 +46,7 @@ section.section-two {
     max-width: 100%;
 }
 
-.section-two .container div.section-nuvem {
+.section-two .container div.section-nuvem, p.mangekyou-sharingan {
     text-align: center;
 }
 
@@ -71,6 +71,7 @@ section.section-two {
 .section-two .container div.section-nuvem h2{
     margin-top: 35px;
 }
+
 
 @media screen and (max-width: 700px) {
     .container{
