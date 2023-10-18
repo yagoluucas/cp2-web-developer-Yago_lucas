@@ -17,7 +17,9 @@ section.section-two {
 }
 
 .container div {
-    width: 40%;
+    width: 45%;
+    min-width: 240px;
+    max-width: 600px;
     margin: 30px auto;
 }
 

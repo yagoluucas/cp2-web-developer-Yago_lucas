@@ -18,8 +18,8 @@ header  div.header {
     padding: 20px;
     margin: auto;
     border: 5px solid white;
-    min-width: 300px;
-    width: 50%;
+    min-width: 240px;
+    width: 55%;
     max-width: 1000px;
     color: #ffff;
     font-size: 1.4rem;
